@@ -42,8 +42,8 @@ sound is also shown for comparitive purposes.
 
 [<p><img width="65" height="65" src="data/Additional%20Photos/playicon.png"></p>](https://drive.google.com/file/d/1JDY2tfL0G0A39BBwpYRsnTtS9FdAV02_/view?usp=sharing)
 <p>
-<img width="420" height="300" src="Background%20audio/Original-audio-plot.png">
-<img width="420" height="300" src="Background%20audio/Original-audio-spectrogram.png">
+<img width="400" height="300" src="Background%20audio/Original-audio-plot.png">
+<img width="400" height="300" src="Background%20audio/Original-audio-spectrogram.png">
 </p>
 
 The code for the algorithm is available in *vmalgo.m*. I have displayed 2 simulations by changing the parameters to show the efficacy of 
@@ -80,8 +80,8 @@ and spectrogram of the recovered sound with the background given above.
 
 [<p><img width="65" height="65" src="data/Additional%20Photos/playicon.png"></p>](https://drive.google.com/file/d/1q013G5YemoyyRHHNAN4v0u58ZHjZ6kyD/view?usp=sharing)
 <p>
-<img width="420" height="300" src="data/Simulation%201/Timewave-recovered-S1-O2-D0.1.png">
-<img width="420" height="300" src="data/Simulation%201/Spectrogram-recovered-S1-O2-D0.1.png">
+<img width="400" height="300" src="data/Simulation%201/Timewave-recovered-S1-O2-D0.1.png">
+<img width="400" height="300" src="data/Simulation%201/Spectrogram-recovered-S1-O2-D0.1.png">
 </p>
 
 This simulation was executed on CPU-only system and took the below mentioned time. The time duration of the simulation will depend on the parameters and if the code is being
@@ -123,8 +123,8 @@ and spectrogram of the recovered sound with the background given above.
 
 [<p><img width="65" height="65" src="data/Additional%20Photos/playicon.png"></p>](https://drive.google.com/file/d/1GV-mIzUGu619BV249HeWgad8KynZl9Dp/view?usp=sharing)
 <p>
-<img width="420" height="300" src="data/Simulation%202/Timewave-recovered-S3-O5-D0.7.png">
-<img width="420" height="300" src="data/Simulation%202/Spectrogram-recovered-S3-O5-D0.7.png">
+<img width="400" height="300" src="data/Simulation%202/Timewave-recovered-S3-O5-D0.7.png">
+<img width="400" height="300" src="data/Simulation%202/Spectrogram-recovered-S3-O5-D0.7.png">
 </p>
 
 This simulation was executed on CPU-only system and took the below mentioned time. The time duration of the simulation will depend on the parameters and if the code is being
